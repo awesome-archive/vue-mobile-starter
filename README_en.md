@@ -1,4 +1,4 @@
-# vue-mobile-starter
+# vue-mobile-starter &middot;  [![PyPI](https://img.shields.io/pypi/status/Django.svg)]()  [![Packagist](https://img.shields.io/packagist/l/doctrine/orm.svg)](https://github.com/JohnsenZhou/vue-mobile-starter/blob/master/LICENSE)
 
 
 
@@ -80,4 +80,4 @@ npm run build
 ![在线浏览](https://raw.githubusercontent.com/JohnsenZhou/NodeApp-Deploy/img/qrcode.png)
 
 ## License
-[MIT](https://github.com/epicmaxco/vuestic-admin/blob/master/LICENSE) license.
+[MIT](https://github.com/JohnsenZhou/vue-mobile-starter/blob/master/LICENSE) license.
